@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300" role="img" aria-labelledby="title desc">
+<title id="title">SAMT | سَمْت</title><desc id="desc">A directional pointer on engineering axes beside the bilingual SAMT wordmark.</desc>
+<rect width="780" height="300" rx="24" fill="#f5f4ec"/>
+<g transform="translate(54 58)"><rect width="184" height="184" rx="32" fill="#123c39"/><path d="M33 139H150M52 156V40" stroke="#b7d4c6" stroke-width="3"/><path d="M48 139L136 40L116 117L94 96Z" fill="#f1bb62"/><circle cx="52" cy="139" r="6" fill="#fff"/></g>
+<g fill="#123c39" font-family="Arial,sans-serif"><text x="272" y="152" font-weight="bold" font-size="86" letter-spacing="2">SAMT</text><text x="709" y="152" text-anchor="start" direction="rtl" font-size="60" font-weight="bold">سَمْت</text><path d="M275 180H714" stroke="#a8bcb2"/><text x="275" y="214" font-size="17" letter-spacing="4">ENGINEERING SYSTEMS</text></g></svg>
